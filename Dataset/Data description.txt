@@ -1,0 +1,8 @@
+File format: pcap
+Traffic type: Moat, Normal, and Stratosphere 
+
+Link: https://pan.baidu.com/s/1HmxoK9OXZrCRjdRGKiEBUQ 
+Code: 6bxg
+
+Note:
+The number of normal traffic is less than that in the paper because we removed some flows that may injure our privacy, including online chat, shopping, remote desktop, and so on. And we have verified that the removed data influence the results very slightly in the paper. 
